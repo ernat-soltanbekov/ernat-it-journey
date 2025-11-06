@@ -2,3 +2,4 @@ assigned_author_date	sequence	source_path	blob_sha	bytes	lines	source_url
 2025-11-06	2	day56_envoy_connection_pool_exhaustion_and_outlier_detection.md	e978691c32b9fa31f0b867e75409fa8ac0d77161	4688	221	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/day56_envoy_connection_pool_exhaustion_and_outlier_detection.md
 2025-11-06	4	docker-compose.yml	5ad0bea7635e1638c0c8d8816173c028adbd263a	908	37	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/docker-compose.yml
 2025-11-06	6	http_notes.md	c7aa6778ebd9d44b72339e844b924872060ad4cf	749	37	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/http_notes.md
+2025-11-06	8	incident_analysis_day10.md	16666adbb16ea99c2b9fccd9b3433d2f22918142	2053	98	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/incident_analysis_day10.md
