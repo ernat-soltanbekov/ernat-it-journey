@@ -18,3 +18,4 @@ assigned_author_date	sequence	source_path	blob_sha	bytes	lines	source_url
 2026-01-24	33	DEPLOYMENT_STRATEGY_05_08_2026.md	6ca50c5029793df01e4b1d4accfdf2cf014f949d	2283	43	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/DEPLOYMENT_STRATEGY_05_08_2026.md
 2026-01-24	35	Dockerfile	a52ec2f153b2b89af3d2ec1823b1600cb5c03658	1208	42	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/Dockerfile
 2026-01-24	37	OPTIMIZED_DOCKER_BUILD_May_10_2026.md	60d1098ef5059410a29caf2544b210a97c6d86fd	1491	25	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/OPTIMIZED_DOCKER_BUILD_May_10_2026.md
+2026-01-24	39	README.md	6635c6788991e1723a31b3dc95e5d3926da50b74	767	30	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/README.md
