@@ -5,3 +5,4 @@ assigned_author_date	sequence	source_path	blob_sha	bytes	lines	source_url
 2026-03-12	8	docker-compose.yml	5ad0bea7635e1638c0c8d8816173c028adbd263a	908	37	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/docker-compose.yml
 2026-03-12	10	http_notes.md	c7aa6778ebd9d44b72339e844b924872060ad4cf	749	37	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/http_notes.md
 2026-03-12	12	incident_analysis_day10.md	16666adbb16ea99c2b9fccd9b3433d2f22918142	2053	98	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/incident_analysis_day10.md
+2026-03-12	14	incident_analysis_day12.md	b515b80a41f393ce214512e148516081d6afa325	2193	92	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/incident_analysis_day12.md
