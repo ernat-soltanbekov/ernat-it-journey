@@ -21,3 +21,10 @@ My goal is to enter the Astana Hub IT ecosystem in 2027 after completing persona
 
 ## Why My Background Fits
 My strengths are discipline, stability under pressure, process execution, coordination, structured thinking, and self-management.
+
+## Next Steps
+1. SQL basics
+2. HTTP and API basics
+3. Postman basics
+4. Support terminology
+5. Mini resume for Astana Hub ecosystem
