@@ -1,15 +1,23 @@
 -- Day 1 SQL Basics
-
+-- What I learn today:
+-- SELECT = choose what to show
+-- FROM = choose the table
+-- WHERE = filter rows
+-- ORDER BY = sort result
 -- 1
+-- Show all columns from users
 SELECT * FROM users;
 
 -- 2
+-- Show only name column
 SELECT name FROM users;
 
 -- 3
+-- Show name and email
 SELECT name, email FROM users;
 
 -- 4
+-- Find user with id = 1
 SELECT * FROM users WHERE id = 1;
 
 -- 5
