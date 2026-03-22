@@ -10,3 +10,4 @@
 - Wrote 10 basic SQL queries
 - Added notes for SELECT, FROM, WHERE, ORDER BY
 - Improved the SQL file with comments
+- Added sql_cheat_sheet.md
