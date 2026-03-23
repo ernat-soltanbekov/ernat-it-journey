@@ -11,3 +11,8 @@
 - Added notes for SELECT, FROM, WHERE, ORDER BY
 - Improved the SQL file with comments
 - Added sql_cheat_sheet.md
+## 2026-03-23
+- Added http_notes.md
+- Learned request and response basics
+- Added HTTP methods: GET, POST, PUT, DELETE
+- Added status codes: 200, 201, 400, 401, 403, 404, 500
