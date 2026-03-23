@@ -16,3 +16,4 @@
 - Learned request and response basics
 - Added HTTP methods: GET, POST, PUT, DELETE
 - Added status codes: 200, 201, 400, 401, 403, 404, 500
+- Added http_cheat_sheet.md
