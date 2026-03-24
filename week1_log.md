@@ -17,3 +17,12 @@
 - Added HTTP methods: GET, POST, PUT, DELETE
 - Added status codes: 200, 201, 400, 401, 403, 404, 500
 - Added http_cheat_sheet.md
+## 2026-03-24
+- Started Postman
+- Sent first GET request
+- Got 200 OK response
+- Added query parameter: city=Astana
+- Sent second GET request with params
+- Sent request to status/404
+- Got 404 response
+- Added postman_day_1/notes.md
