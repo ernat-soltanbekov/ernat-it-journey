@@ -26,3 +26,7 @@
 - Sent request to status/404
 - Got 404 response
 - Added postman_day_1/notes.md
+## 2026-03-25
+- Added sql_day_2.sql
+- Learned LIKE, IN, COUNT
+- Wrote 10 SQL queries for pattern search, multiple values, and row counting
