@@ -30,3 +30,7 @@
 - Added sql_day_2.sql
 - Learned LIKE, IN, COUNT
 - Wrote 10 SQL queries for pattern search, multiple values, and row counting
+## 2026-03-26
+- Added support_notes.md
+- Learned core support terms: incident, bug, priority, escalation, workaround
+- Added first support case: user cannot log in
