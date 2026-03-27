@@ -34,3 +34,7 @@
 - Added support_notes.md
 - Learned core support terms: incident, bug, priority, escalation, workaround
 - Added first support case: user cannot log in
+## 2026-03-27
+- Added mini_resume.md
+- Completed first week of IT transition
+- Built GitHub foundation with SQL, HTTP, Postman, and support basics
