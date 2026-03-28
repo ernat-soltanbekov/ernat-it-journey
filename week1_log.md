@@ -38,3 +38,7 @@
 - Added mini_resume.md
 - Completed first week of IT transition
 - Built GitHub foundation with SQL, HTTP, Postman, and support basics
+## 2026-03-28
+- Added sql_day_3.sql
+- Learned JOIN and GROUP BY
+- Practiced combining tables and aggregating data
