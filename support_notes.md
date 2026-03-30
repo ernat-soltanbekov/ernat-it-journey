@@ -45,3 +45,43 @@ In support I should think like this:
 3. check basic causes
 4. find temporary workaround if possible
 5. escalate if needed
+
+
+## Case 2: User cannot load page
+
+### What I ask
+- What page are you trying to open?
+- What exactly happens? (blank page, error, loading forever)
+- When did it start?
+- Does it happen on other devices or browsers?
+
+### What I check
+- Is the URL correct?
+- Is the server responding?
+- Is there a network issue?
+- Is there a known outage?
+
+### Where I escalate
+- To network/admin team if it's connectivity
+- To backend team if server is down
+- To frontend team if UI is broken
+
+
+## Case 3: Data is not saving
+
+### What I ask
+- What action did you perform?
+- What data did you enter?
+- Did you see any error message?
+- Does it happen every time?
+
+### What I check
+- Is the API request sent? (POST)
+- What is the response status?
+- Is there validation error?
+- Is the database working?
+
+### Where I escalate
+- To backend if API fails
+- To database team if data is not stored
+- To developers if it looks like a bug
