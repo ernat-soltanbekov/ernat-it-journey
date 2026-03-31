@@ -11,3 +11,8 @@
 - Added 2 support cases: page load issue, data not saving
 - Practiced incident thinking (questions, checks, escalation)
 - Learned to distinguish frontend, backend, and network issue
+## 2026-03-31
+- Sent request with 500 status in Postman
+- Learned how to identify server-side errors
+- Practiced thinking like support (diagnose and escalate)
+- Added postman_day_3/notes.md
