@@ -16,3 +16,7 @@
 - Learned how to identify server-side errors
 - Practiced thinking like support (diagnose and escalate)
 - Added postman_day_3/notes.md
+## 2026-04-01
+- Added sql_day_4.sql
+- Learned AND, OR, NOT conditions
+- Practiced combining filters and using parentheses
