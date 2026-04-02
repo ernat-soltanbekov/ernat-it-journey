@@ -81,6 +81,32 @@ In support I should think like this:
 - Is there validation error?
 - Is the database working?
 
+## Case 4: User does not see their data
+
+### Situation
+User says: "I created data, but I don’t see it in the system"
+
+### What I ask
+- What exactly did you create?
+- When did you create it?
+- Do you see any error?
+- Does the issue happen every time?
+
+### What I check
+- Was the POST request successful? (status 200/201)
+- Is the data returned in response?
+- Is the GET request returning the data?
+- Is there a delay or caching issue?
+
+### What I think
+- Maybe POST worked but GET does not return data
+- Maybe data is not saved in database
+- Maybe filtering conditions are wrong (SQL issue)
+
+### Where I escalate
+- To backend if API logic is broken
+- To database team if data is not stored
+- To developers if it's a logic bug
 ### Where I escalate
 - To backend if API fails
 - To database team if data is not stored
