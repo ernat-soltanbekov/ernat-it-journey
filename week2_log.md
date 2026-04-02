@@ -20,3 +20,8 @@
 - Added sql_day_4.sql
 - Learned AND, OR, NOT conditions
 - Practiced combining filters and using parentheses
+## 2026-04-02
+- Added complex support case (data not visible)
+- Practiced full chain: POST → GET → data storage
+- Simulated real scenario in Postman
+- Understood difference between API and database
