@@ -25,3 +25,7 @@
 - Practiced full chain: POST → GET → data storage
 - Simulated real scenario in Postman
 - Understood difference between API and database
+## 2026-04-03
+- Updated mini_resume.md with new skills
+- Completed week 2 of IT transition
+- Strengthened SQL, API, Postman, and support thinking
