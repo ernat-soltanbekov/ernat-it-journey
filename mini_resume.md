@@ -14,10 +14,26 @@ I have a background in military service, which gave me strong discipline, respon
 - Self-management and consistency
 
 ## IT Skills (Entry Level)
-- SQL basics (SELECT, WHERE, LIKE, IN, COUNT)
-- HTTP basics (methods, status codes)
-- Postman (sending requests, working with parameters)
-- Basic incident handling understanding
+
+- SQL:
+  - SELECT, WHERE, LIKE, IN, COUNT
+  - JOIN, GROUP BY, HAVING
+  - AND, OR, NOT (logic control)
+
+- HTTP / API:
+  - Understanding of GET and POST requests
+  - Working with status codes (200, 404, 500)
+  - Reading API responses
+
+- Postman:
+  - Sending GET and POST requests
+  - Working with JSON body
+  - Testing API responses and errors
+
+- Support Skills:
+  - Incident analysis (ask → check → escalate)
+  - Understanding system flow: API → backend → database
+  - Ability to identify problem layer (frontend, backend, network)
 
 ## Target Roles
 - Application Support
