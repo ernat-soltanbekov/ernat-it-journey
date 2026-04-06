@@ -4,7 +4,7 @@
 My name is Ernat. My background includes military service, discipline, coordination, process control, responsibility, and training.
 
 ## My Goal
-My goal is to enter the Astana Hub IT ecosystem in 2027 after completing personal bankruptcy procedures in 2026.
+My goal is to enter the Astana Hub IT ecosystem in 2027.
 
 ## Target Roles
 - Application Support
