@@ -6,3 +6,7 @@
 - Created incident report for login issue
 - Learned to distinguish user error vs system bug
 - Practiced basic user-side troubleshooting before escalation
+## 2026-04-06
+- Created incident report for empty data case
+- Learned that 200 OK does not guarantee correct data
+- Practiced multi-layer analysis (API, SQL, frontend)
