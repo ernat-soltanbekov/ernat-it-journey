@@ -10,3 +10,7 @@
 - Created incident report for empty data case
 - Learned that 200 OK does not guarantee correct data
 - Practiced multi-layer analysis (API, SQL, frontend)
+## 2026-04-07
+- Created incident report for payment/order issue
+- Learned how to structure proper escalation
+- Practiced identifying working vs failing system parts
