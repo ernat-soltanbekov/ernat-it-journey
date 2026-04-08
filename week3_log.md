@@ -14,3 +14,7 @@
 - Created incident report for payment/order issue
 - Learned how to structure proper escalation
 - Practiced identifying working vs failing system parts
+## 2026-04-08
+- Created incident report for performance issue
+- Learned that slow system is also a problem
+- Practiced identifying performance bottlenecks without jumping to conclusions
