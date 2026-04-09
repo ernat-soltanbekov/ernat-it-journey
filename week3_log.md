@@ -18,3 +18,7 @@
 - Created incident report for performance issue
 - Learned that slow system is also a problem
 - Practiced identifying performance bottlenecks without jumping to conclusions
+## 2026-04-09
+- Created complex incident report (form submission issue)
+- Learned to start debugging from user action (frontend)
+- Practiced full diagnostic flow: frontend → API → backend → database
