@@ -77,7 +77,7 @@ Step 4:
 ### 5. Possible Causes
 
 - File upload not triggered (frontend issue)
-- File rejected due to size/type ограничения
+- File rejected due to size/type limit
 - Backend does not store file
 - Storage issue (file not saved or lost)
 - API does not return uploaded file
