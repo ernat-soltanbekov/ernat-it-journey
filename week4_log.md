@@ -14,3 +14,7 @@
 - Analyzed file upload issue
 - Introduced storage layer into debugging process
 - Improved diagnostics for file-related scenarios
+## 2026-04-15
+- Analyzed authentication/session issue
+- Learned token/cookie-based session handling
+- Practiced debugging login flow with DevTools (Network + Application)
