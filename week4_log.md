@@ -18,3 +18,7 @@
 - Analyzed authentication/session issue
 - Learned token/cookie-based session handling
 - Practiced debugging login flow with DevTools (Network + Application)
+## 2026-04-16
+- Analyzed cart state issue
+- Learned difference between inventory and cart state
+- Improved debugging of session/user-related problems
