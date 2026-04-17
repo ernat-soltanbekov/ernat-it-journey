@@ -7,3 +7,4 @@ assigned_author_date	sequence	source_path	blob_sha	bytes	lines	source_url
 2026-04-17	12	DOCKER_STRATEGY_may_09_2026.md	e68131539b976b267a325def84fa80798bc82299	1796	29	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/DOCKER_STRATEGY_may_09_2026.md
 2026-04-17	14	Linux.bash	05506d6dcd7098bc557cda23360879f3aa649f81	2392	32	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/Linux.bash
 2026-04-17	16	POSTMORTEM_MAY_07_2026.md	6d01fa3ccfd26049043099d8131672f398c56d52	2158	31	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/POSTMORTEM_MAY_07_2026.md
+2026-04-17	18	day53_dual_write_problem_and_transactional_outbox.md	88bbf4fe9941b9f44d15804b2a63b562aa68f911	4531	300	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/day53_dual_write_problem_and_transactional_outbox.md
