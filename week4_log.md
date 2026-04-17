@@ -22,3 +22,7 @@
 - Analyzed cart state issue
 - Learned difference between inventory and cart state
 - Improved debugging of session/user-related problems
+## 2026-04-17
+- Analyzed system-level incident (error rate spike)
+- Learned difference between user-level and system-level debugging
+- Introduced logs and metrics into diagnostic process
