@@ -6,3 +6,7 @@
 - Learned to detect patterns in logs using user_id
 - Used grep and wc to analyze repeated errors
 - Differentiated between random failures and data-specific issues
+## 2026-04-20
+- Correlated API and DB logs
+- Identified slow query as root cause of API timeout
+- Practiced multi-layer log analysis
