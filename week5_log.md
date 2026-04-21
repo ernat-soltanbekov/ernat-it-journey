@@ -10,3 +10,7 @@
 - Correlated API and DB logs
 - Identified slow query as root cause of API timeout
 - Practiced multi-layer log analysis
+## 2026-04-21
+- Analyzed performance issue without errors
+- Learned to use response_time for diagnostics
+- Practiced identifying unstable system behavior
