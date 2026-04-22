@@ -14,3 +14,7 @@
 - Analyzed performance issue without errors
 - Learned to use response_time for diagnostics
 - Practiced identifying unstable system behavior
+## 2026-04-22
+- Learned about connection pool limits
+- Identified resource exhaustion vs slow queries
+- Improved reading of explicit log signals
