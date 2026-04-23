@@ -18,3 +18,7 @@
 - Learned about connection pool limits
 - Identified resource exhaustion vs slow queries
 - Improved reading of explicit log signals
+## 2026-04-23
+- Learned about cache inconsistency (read/write mismatch)
+- Practiced validating cache behavior with experiments
+- Understood importance of cache invalidation strategies
