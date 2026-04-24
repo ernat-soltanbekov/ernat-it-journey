@@ -22,3 +22,7 @@
 - Learned about cache inconsistency (read/write mismatch)
 - Practiced validating cache behavior with experiments
 - Understood importance of cache invalidation strategies
+## 2026-04-24
+- Analyzed multi-layer issue (cache + DB + API)
+- Learned to correlate logs across multiple services
+- Understood combined impact of cache miss and slow queries
