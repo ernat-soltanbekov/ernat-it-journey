@@ -6,3 +6,7 @@
 - Learned how to locate API process in a multi-process system
 - Practiced mapping process to port using ss and lsof
 - Measured real API performance using curl
+## 2026-04-27
+- Diagnosed external service latency impact
+- Practiced isolating dependency-related delays
+- Learned importance of direct measurement (curl)
