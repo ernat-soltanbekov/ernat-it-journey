@@ -10,3 +10,7 @@
 - Diagnosed external service latency impact
 - Practiced isolating dependency-related delays
 - Learned importance of direct measurement (curl)
+## 2026-04-28
+- Learned about concurrency and request queueing
+- Diagnosed performance issues without resource bottlenecks
+- Practiced identifying execution model limitations
