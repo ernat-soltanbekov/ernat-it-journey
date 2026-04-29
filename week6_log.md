@@ -14,3 +14,7 @@
 - Learned about concurrency and request queueing
 - Diagnosed performance issues without resource bottlenecks
 - Practiced identifying execution model limitations
+## 2026-04-29
+- Learned about saturation and performance degradation under load
+- Practiced identifying system limits (workers, pools, OS limits)
+- Understood queueing effects on latency
