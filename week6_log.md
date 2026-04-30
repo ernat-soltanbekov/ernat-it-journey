@@ -18,3 +18,7 @@
 - Learned about saturation and performance degradation under load
 - Practiced identifying system limits (workers, pools, OS limits)
 - Understood queueing effects on latency
+## 2026-04-30
+- Learned to diagnose multi-factor performance issues
+- Understood impact of long-tail latency and instability
+- Practiced prioritizing stabilization over optimization
