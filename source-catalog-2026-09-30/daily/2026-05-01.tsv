@@ -6,3 +6,4 @@ assigned_author_date	sequence	source_path	blob_sha	bytes	lines	source_url
 2026-05-01	10	postman_day_1/notes.md	ad424647e143ee213bd791b02b22c74ea06f7cc4	531	23	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/postman_day_1/notes.md
 2026-05-01	12	postman_day_3/notes.md	67e8dbf6eb347cdb4d19f9d332046c1c451372c6	564	22	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/postman_day_3/notes.md
 2026-05-01	14	requirements.txt	e40831c2118c18b74e86bce5af290dfad35a70a0	22	2	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/requirements.txt
+2026-05-01	16	sql_cheat_sheet.md	21c635533881fa253069b19515a66e334267dc39	590	34	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/sql_cheat_sheet.md
