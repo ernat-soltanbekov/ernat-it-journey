@@ -6,3 +6,7 @@
 - Learned about retry storm and its impact on system stability
 - Practiced designing controlled retry strategies
 - Understood importance of backoff, jitter, and retry limits
+## 2026-05-04
+- Learned trade-off between latency and success rate
+- Practiced designing balanced retry strategies
+- Understood importance of fallback and async processing
