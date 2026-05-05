@@ -10,3 +10,7 @@
 - Learned trade-off between latency and success rate
 - Practiced designing balanced retry strategies
 - Understood importance of fallback and async processing
+## 2026-05-05
+- Learned importance of observability in distributed systems
+- Understood tail latency and its impact
+- Practiced structured logging and tracing concepts
