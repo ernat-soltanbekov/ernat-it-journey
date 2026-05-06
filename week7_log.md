@@ -14,3 +14,7 @@
 - Learned importance of observability in distributed systems
 - Understood tail latency and its impact
 - Practiced structured logging and tracing concepts
+## 2026-05-06
+- Learned about alert fatigue and signal vs noise
+- Practiced designing actionable alerts
+- Understood SLO-based alerting and prioritization
