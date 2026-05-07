@@ -18,3 +18,7 @@
 - Learned about alert fatigue and signal vs noise
 - Practiced designing actionable alerts
 - Understood SLO-based alerting and prioritization
+## 2026-05-07
+- Learned principles of blameless postmortems
+- Practiced root cause analysis using 5 Whys
+- Understood importance of corrective actions after incidents
