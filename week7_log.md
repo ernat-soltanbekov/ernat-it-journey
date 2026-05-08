@@ -22,3 +22,7 @@
 - Learned principles of blameless postmortems
 - Practiced root cause analysis using 5 Whys
 - Understood importance of corrective actions after incidents
+## 2026-05-08
+- Learned principles of safe production deployment
+- Practiced canary and blue/green deployment strategies
+- Understood importance of rollback automation and deployment gates
