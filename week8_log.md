@@ -6,3 +6,7 @@
 - Learned Docker layer mechanics and cache invalidation
 - Understood production image optimization techniques
 - Practiced principles of secure and minimal container builds
+## 2026-05-11
+- Learned container networking and service discovery concepts
+- Understood Docker bridge networking and internal DNS
+- Practiced persistent storage and volume management principles
