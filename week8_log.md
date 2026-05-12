@@ -10,3 +10,7 @@
 - Learned container networking and service discovery concepts
 - Understood Docker bridge networking and internal DNS
 - Practiced persistent storage and volume management principles
+## 2026-05-12
+- Learned container orchestration fundamentals
+- Understood desired state and reconciliation concepts
+- Studied Kubernetes motivation and production orchestration principles
