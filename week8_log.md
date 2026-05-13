@@ -14,3 +14,7 @@
 - Learned container orchestration fundamentals
 - Understood desired state and reconciliation concepts
 - Studied Kubernetes motivation and production orchestration principles
+## 2026-05-13
+- Studied Kubernetes Pod abstraction and runtime model
+- Learned difference between Pods, ReplicaSets, Deployments, and Services
+- Understood ephemeral infrastructure and immutable deployment principles
