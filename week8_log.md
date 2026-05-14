@@ -18,3 +18,8 @@
 - Studied Kubernetes Pod abstraction and runtime model
 - Learned difference between Pods, ReplicaSets, Deployments, and Services
 - Understood ephemeral infrastructure and immutable deployment principles
+## 2026-05-14
+- Studied Kubernetes networking model
+- Learned how Services abstract ephemeral Pod networking
+- Understood ClusterIP, NodePort, LoadBalancer, and Ingress concepts
+- Learned Layer 4 vs Layer 7 traffic routing principles
