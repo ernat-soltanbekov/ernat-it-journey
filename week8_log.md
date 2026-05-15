@@ -23,3 +23,8 @@
 - Learned how Services abstract ephemeral Pod networking
 - Understood ClusterIP, NodePort, LoadBalancer, and Ingress concepts
 - Learned Layer 4 vs Layer 7 traffic routing principles
+## 2026-05-15
+- Studied Kubernetes ConfigMaps and Secrets
+- Learned separation between code, configuration, and credentials
+- Understood immutable image principles and runtime configuration injection
+- Learned RBAC, least privilege, and secret rotation concepts
