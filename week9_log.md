@@ -9,3 +9,9 @@
 - Understood Startup, Readiness, and Liveness probes
 - Learned how bad healthchecks may trigger cascading failures
 - Studied graceful shutdown and traffic draining
+## 2026-05-18
+- Studied Kubernetes Scheduler internals
+- Learned why Pods remain in Pending state
+- Understood requests, bin packing, and resource fragmentation
+- Learned Node Affinity, Pod Anti-Affinity, and Taints/Tolerations
+- Studied production-grade workload placement and cluster autoscaling
