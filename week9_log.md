@@ -15,3 +15,9 @@
 - Understood requests, bin packing, and resource fragmentation
 - Learned Node Affinity, Pod Anti-Affinity, and Taints/Tolerations
 - Studied production-grade workload placement and cluster autoscaling
+## 2026-05-19
+- Studied differences between stateless and stateful workloads
+- Learned StatefulSet, Headless Service, PV and PVC architecture
+- Understood storage orchestration and attach/detach mechanics
+- Studied split-brain risks and distributed consensus concepts
+- Learned production-grade Kubernetes database architecture
