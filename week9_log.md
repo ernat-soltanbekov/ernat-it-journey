@@ -21,3 +21,11 @@
 - Understood storage orchestration and attach/detach mechanics
 - Studied split-brain risks and distributed consensus concepts
 - Learned production-grade Kubernetes database architecture
+## 2026-05-20
+- Studied API Gateway bottlenecks and choke points
+- Learned retry storms and thundering herd behavior
+- Understood exponential backoff and jitter strategies
+- Studied CPU saturation and queue collapse mechanics
+- Learned backpressure and load shedding principles
+- Analyzed autoscaling limitations during traffic spikes
+- Studied production-grade overload mitigation architecture
