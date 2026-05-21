@@ -29,3 +29,11 @@
 - Learned backpressure and load shedding principles
 - Analyzed autoscaling limitations during traffic spikes
 - Studied production-grade overload mitigation architecture
+## 2026-05-21
+- Studied Kubernetes Service and ClusterIP internals
+- Learned kube-proxy reconciliation and packet forwarding
+- Understood EndpointSlice propagation chain
+- Studied control plane vs data plane separation
+- Learned conntrack exhaustion and probabilistic failures
+- Studied iptables drift and kube-proxy desynchronization
+- Analyzed Kubernetes networking investigation methodology
