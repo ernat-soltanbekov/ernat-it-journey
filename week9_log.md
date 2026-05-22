@@ -37,3 +37,11 @@
 - Learned conntrack exhaustion and probabilistic failures
 - Studied iptables drift and kube-proxy desynchronization
 - Analyzed Kubernetes networking investigation methodology
+## 2026-05-22
+- Studied service mesh architecture and Envoy sidecars
+- Learned tail latency and percentile-based monitoring
+- Understood timeout propagation across microservices
+- Studied retry amplification and latency feedback loops
+- Learned head-of-line blocking and queue saturation
+- Analyzed observability blind spots in distributed systems
+- Studied service mesh circuit breaking and retry budgets
