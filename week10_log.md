@@ -6,3 +6,11 @@
 - Learned cache stampede and dogpile effect mechanics
 - Compared cache-aside, write-through and write-behind strategies
 - Analyzed read-after-write consistency and cache versioning
+## 2026-05-24
+- Studied PostgreSQL MVCC and transactional concurrency
+- Learned row-level locking and lock queue amplification
+- Understood deadlocks and transaction coordination collapse
+- Studied isolation levels and consistency tradeoffs
+- Learned connection pool exhaustion mechanics
+- Analyzed hot row contention and optimistic locking
+- Studied retry amplification at database layer
