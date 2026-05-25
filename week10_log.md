@@ -14,3 +14,11 @@
 - Learned connection pool exhaustion mechanics
 - Analyzed hot row contention and optimistic locking
 - Studied retry amplification at database layer
+## 2026-05-25
+- Studied Kafka architecture and distributed event streams
+- Learned partitions, offsets and consumer group coordination
+- Understood consumer lag and rebalance storm mechanics
+- Studied delivery semantics and exactly-once limitations
+- Learned idempotent consumer design and replay safety
+- Analyzed hot partitions and backpressure amplification
+- Studied retry storms and DLQ isolation patterns
