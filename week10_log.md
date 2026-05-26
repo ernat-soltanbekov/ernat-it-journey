@@ -22,3 +22,12 @@
 - Learned idempotent consumer design and replay safety
 - Analyzed hot partitions and backpressure amplification
 - Studied retry storms and DLQ isolation patterns
+## 2026-05-26
+- Studied Kubernetes control plane architecture
+- Learned API server and etcd coordination mechanics
+- Understood reconciliation loops and watch storms
+- Studied informer caches and controller amplification
+- Learned etcd fsync latency and Raft coordination risks
+- Analyzed service mesh control plane amplification
+- Studied admission webhooks and CRD scalability risks
+- Learned control plane backpressure and cluster instability patterns
