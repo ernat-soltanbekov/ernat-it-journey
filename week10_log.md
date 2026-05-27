@@ -31,3 +31,12 @@
 - Analyzed service mesh control plane amplification
 - Studied admission webhooks and CRD scalability risks
 - Learned control plane backpressure and cluster instability patterns
+## 2026-05-27
+- Studied Linux TCP connection lifecycle and kernel networking limits
+- Learned SYN backlog and accept queue behavior
+- Studied conntrack table exhaustion and NAT amplification
+- Learned TIME_WAIT mechanics and ephemeral port exhaustion
+- Understood retry amplification at kernel networking layer
+- Studied head-of-line blocking and TCP retransmissions
+- Learned Kubernetes networking overhead and connection churn problems
+- Studied production mitigation strategies for large-scale TCP overload
