@@ -40,3 +40,12 @@
 - Studied head-of-line blocking and TCP retransmissions
 - Learned Kubernetes networking overhead and connection churn problems
 - Studied production mitigation strategies for large-scale TCP overload
+## 2026-05-28
+- Studied distributed consensus and split-brain failure modes
+- Learned CAP theorem tradeoffs under network partition
+- Studied quorum, leader election and fencing tokens
+- Learned dangers of active-active financial architectures
+- Studied asynchronous replication and replay storms
+- Learned why last-write-wins breaks causality
+- Studied idempotency, transactional outbox and saga patterns
+- Understood distinction between healthy infrastructure and corrupted business state
