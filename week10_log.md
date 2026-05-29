@@ -49,3 +49,9 @@
 - Learned why last-write-wins breaks causality
 - Studied idempotency, transactional outbox and saga patterns
 - Understood distinction between healthy infrastructure and corrupted business state
+## 2026-05-29
+- Studied observability platform failure modes
+- Learned cardinality explosion and Prometheus scaling limits
+- Understood telemetry amplification and monitoring feedback loops
+- Studied tracing overhead and sampling strategies
+- Learned observability isolation and telemetry governance principles
