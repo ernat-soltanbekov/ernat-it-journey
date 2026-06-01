@@ -14,3 +14,10 @@
 - Analyzed Cluster Autoscaler limitations
 - Studied storage topology and volume affinity conflicts
 - Learned capacity planning for node failures and deployments
+## 2026-06-01
+- Studied Istio certificate rotation failures
+- Learned mTLS architecture and workload identity concepts
+- Analyzed Envoy sidecars and SDS secret distribution
+- Investigated trust bundle propagation and stale proxy states
+- Learned production troubleshooting of Service Mesh outages
+- Studied certificate expiration monitoring and safe CA rotation strategies
