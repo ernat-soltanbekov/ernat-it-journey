@@ -22,10 +22,6 @@
 - Learned production troubleshooting of Service Mesh outages
 - Studied certificate expiration monitoring and safe CA rotation strategies
 ### Day 53 - Dual Write Problem and Transactional Outbox
-
-Studied consistency failures in event-driven architectures.
-
-Key topics:
 - Dual Write Problem
 - At-most-once vs at-least-once delivery
 - Idempotent consumer design
@@ -35,5 +31,14 @@ Key topics:
 - Event consistency guarantees
 - Reconciliation processes
 - Financial transaction safety
-
-Completed incident analysis and mitigation planning for distributed order and payment processing systems.
+### Day 54 - Kubernetes Memory Pressure and Pod Evictions
+- Resource requests and limits
+- Allocatable vs actual resource consumption
+- Memory overcommit and node overpacking
+- Kubelet Eviction Manager
+- OOMKilled vs Evicted
+- Kubernetes QoS classes
+- MemoryPressure conditions
+- Capacity planning
+- Vertical Pod Autoscaler (VPA)
+- Goldilocks recommendations
