@@ -1,0 +1,2 @@
+assigned_author_date	sequence	source_path	blob_sha	bytes	lines	source_url
+2026-07-04	2	day53_dual_write_problem_and_transactional_outbox.md	88bbf4fe9941b9f44d15804b2a63b562aa68f911	4531	300	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/day53_dual_write_problem_and_transactional_outbox.md
