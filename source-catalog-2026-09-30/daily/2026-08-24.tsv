@@ -1,0 +1,2 @@
+assigned_author_date	sequence	source_path	blob_sha	bytes	lines	source_url
+2026-08-24	1	day55_postgresql_replication_lag_and_read_after_write_consistency.md	0204ab9d4b04f9433d8d0f7865d8dcb3f47ccb5a	1731	59	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/day55_postgresql_replication_lag_and_read_after_write_consistency.md
