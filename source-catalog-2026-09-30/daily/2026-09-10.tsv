@@ -1,3 +1,4 @@
 assigned_author_date	sequence	source_path	blob_sha	bytes	lines	source_url
 2026-09-10	2	debugging_checklist.md	c56d37ee20fc16531bcca9f671f346ee7d12d86c	986	51	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/debugging_checklist.md
 2026-09-10	4	http_cheat_sheet.md	26eb76e717ba60fb185856b298f26496598bd2d1	788	41	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/http_cheat_sheet.md
+2026-09-10	6	incident_analysis_day1.md	a1552762c91bd8edc3dc6999d57a0c7a6347e560	1621	83	https://github.com/ernat-soltanbekov/ernat-it-journey/blob/3f96f3b3130dbb7e98bbbbb29bd516d44b932fc7/incident_analysis_day1.md
